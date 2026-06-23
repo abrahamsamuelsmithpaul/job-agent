@@ -1,7 +1,0 @@
-.env
-venv/
-logs/
-*.png
-linkedin_state.json
-naukri_state.json
-__pycache__/
